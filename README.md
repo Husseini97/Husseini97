@@ -2,7 +2,7 @@
 
  I'm passionate about ensuring the quality of software through manual and automation testing.
 
-<img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="GIF Description" width="250" height="240"><img src="https://media.giphy.com/media/gf675azxNAz2zDQ1vD/giphy.gif" alt="GIF Description" width="400" height="300"><img src="https://media.giphy.com/media/WYNPuf7UqQv6gKCyv9/giphy.gif" alt="GIF Description" width="250" height="240">
+<img src="https://media.giphy.com/media/gf675azxNAz2zDQ1vD/giphy.gif" alt="GIF Description" width="400" height="300">
 
 
 ## Hands-on 
@@ -25,3 +25,7 @@
 ![Robot Framework](https://img.shields.io/badge/Robot_Framework-00A98F?style=for-the-badge)
 ![Rest-Assured](https://img.shields.io/badge/Rest--Assured-1393D6?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=Husseini97&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Husseini97&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
