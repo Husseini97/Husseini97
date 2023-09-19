@@ -1,8 +1,9 @@
 # Hi there, I'm Hussein 👋
 
-![Coding GIF](https://media.giphy.com/media/gf675azxNAz2zDQ1vD/giphy.gif)
-
  I'm passionate about ensuring the quality of software through manual and automation testing.
+
+<img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="GIF Description" width="250" height="240"><img src="https://media.giphy.com/media/gf675azxNAz2zDQ1vD/giphy.gif" alt="GIF Description" width="400" height="300"><img src="https://media.giphy.com/media/WYNPuf7UqQv6gKCyv9/giphy.gif" alt="GIF Description" width="250" height="240">
+
 
 ## Hands-on 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
