@@ -2,6 +2,7 @@
 <h3 style="color:#0366d6;">Software QA Engineer</h3>
  I'm passionate about ensuring the quality of software through manual and automation testing.
 
+
 # 💻 Hands-on:
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -15,6 +16,7 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira-software&logoColor=white)
 ![Grpc](https://img.shields.io/badge/gRPC-009688?style=for-the-badge)
 ![Appium](https://img.shields.io/badge/Appium-40BFC1?style=for-the-badge&logo=appium&logoColor=white)
+
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![JMeter](https://img.shields.io/badge/JMeter-D9CC2E?style=for-the-badge&logo=apachejmeter&logoColor=white)
 ![Robot Framework](https://img.shields.io/badge/Robot_Framework-00A98F?style=for-the-badge)
