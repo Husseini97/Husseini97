@@ -1,6 +1,6 @@
 # Hi there, I'm Hussein 👋
 
- I'm passionate about ensuring the quality of software through automation and testing.
+ I'm passionate about ensuring the quality of software through manual and automation testing.
 
 ## Hands on 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
