@@ -1,6 +1,6 @@
 <h2 style="color:#28a745;">Hi there, I'm Hussein 👋</h2>
 <h3 style="color:#0366d6;">Software QA Engineer</h3>
- I'm passionate about ensuring the quality of software through manual and automation testing.
+ I'm passionate about ensuring the quality of software through manual testing and test automation.
 <img src="https://media.giphy.com/media/VhWVAa7rUtT3xKX6Cd/giphy.gif" alt="GIF Description" width="500" height="300">
 
 
