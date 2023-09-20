@@ -14,6 +14,7 @@
 ![Axe](https://img.shields.io/badge/Axe-F18E33?style=for-the-badge)
 ![Wave](https://img.shields.io/badge/Wave-0095D5?style=for-the-badge)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira-software&logoColor=white)
 ![Grpc](https://img.shields.io/badge/gRPC-009688?style=for-the-badge)
 ![Appium](https://img.shields.io/badge/Appium-40BFC1?style=for-the-badge&logo=appium&logoColor=white)
@@ -21,10 +22,14 @@
 ![JMeter](https://img.shields.io/badge/JMeter-D9CC2E?style=for-the-badge&logo=apachejmeter&logoColor=white)
 ![Robot Framework](https://img.shields.io/badge/Robot_Framework-00A98F?style=for-the-badge)
 ![Rest-Assured](https://img.shields.io/badge/Rest--Assured-1393D6?style=for-the-badge)
+
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-E62723?style=for-the-badge&logo=testng&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white)
 ![Page Object Model (POM)](https://img.shields.io/badge/Page_Object_Model_(POM)-F18E33?style=for-the-badge)
+![BloomRPC](https://img.shields.io/badge/BloomRPC-21232D?style=for-the-badge&logo=bloomrpc&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+
 
 
 # 📊 GitHub Stats:
