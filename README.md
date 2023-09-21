@@ -4,16 +4,21 @@
 <img src="https://media.giphy.com/media/VhWVAa7rUtT3xKX6Cd/giphy.gif" alt="GIF Description" width="500" height="300">
 
 
-# 💻 Hands-on:
+# 💻Programming languages:
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
+# 💻 Hands-on:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Rest-Assured](https://img.shields.io/badge/Rest--Assured-1393D6?style=for-the-badge)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Axe](https://img.shields.io/badge/Axe-F18E33?style=for-the-badge)
 ![Wave](https://img.shields.io/badge/Wave-0095D5?style=for-the-badge)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira-software&logoColor=white)
 ![Grpc](https://img.shields.io/badge/gRPC-009688?style=for-the-badge)
@@ -29,6 +34,7 @@
 ![Page Object Model (POM)](https://img.shields.io/badge/Page_Object_Model_(POM)-F18E33?style=for-the-badge)
 ![BloomRPC](https://img.shields.io/badge/BloomRPC-21232D?style=for-the-badge&logo=bloomrpc&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+![k6](https://img.shields.io/badge/k6-222222?style=for-the-badge&logo=k6)
 
 
 
